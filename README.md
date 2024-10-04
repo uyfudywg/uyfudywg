@@ -13,7 +13,7 @@
     <br>
     <br>
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,linux,shell,discord"/>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,linux,powershell,discord"/>
     <br>
     <br>
     <br>
